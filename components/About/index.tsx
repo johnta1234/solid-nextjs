@@ -63,7 +63,7 @@ const About = () => {
                 <span className="mb-4 mr-4 inline-flex rounded-full bg-meta px-4.5 py-1 text-metatitle uppercase text-white ">
                   New
                 </span>{" "}
-                SaaS Boilerplate for Next.js
+                TESTING
               </span>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
                 A Complete Solution for
@@ -99,7 +99,7 @@ const About = () => {
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
                     Fully Customizable
                   </h3>
-                  <p>consectetur adipiscing elit fermentum ultricies.</p>
+                  <p>potato potato.</p>
                 </div>
               </div>
             </motion.div>
